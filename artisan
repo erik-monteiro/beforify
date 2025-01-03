@@ -16,7 +16,7 @@ define('LARAVEL_START', microtime(true));
 */
 
 require __DIR__.'/vendor/autoload.php';
- Va6gTn3ydw
+
 $app = require_once __DIR__.'/bootstrap/app.php';
 
 /*
