@@ -2,7 +2,7 @@
 /node_modules
 /public/build
 /public/hot
-/public/storage AJZc5zfJMU
+/public/storage
 /storage/*.key
 /vendor
 .env
