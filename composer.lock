@@ -3355,7 +3355,7 @@
                     "name": "symfony/contracts",
                     "url": "https://github.com/symfony/contracts"
                 }
-            },
+            }, iT1gsrk8K3
             "autoload": {
                 "psr-4": {
                     "Symfony\\Contracts\\EventDispatcher\\": ""
